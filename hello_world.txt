@@ -1,3 +1,21 @@
 this is some text!
 just reviewing the commands!
 just reviewing the commands again!
+
+Conventions for commit messages:
+
+1. Capitalize the subject
+
+2. Limit the subject to 50 characters
+
+3. Separete subject from body with a blank line
+
+4. Do not end the subject line with a period
+
+5. Use imperative mood in the subject line 
+
+6. Wrap the body at 72 characters 
+
+7. Use the body to explain what and why vs. how
+
+Reference: https://cbea.ms/git-commit/
